@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Liva | Personal blog template</title>
+    <link>https://recette-de-la-jeune-maman.netlify.app/categories/</link>
+    <description>Recent content in Categories on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Sep 2020 04:59:30 +0000</lastBuildDate><atom:link href="https://recette-de-la-jeune-maman.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>recherche</title>
+      <link>https://recette-de-la-jeune-maman.netlify.app/categories/recherche/</link>
+      <pubDate>Mon, 28 Sep 2020 04:59:30 +0000</pubDate>
+      
+      <guid>https://recette-de-la-jeune-maman.netlify.app/categories/recherche/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recettes</title>
+      <link>https://recette-de-la-jeune-maman.netlify.app/categories/recettes/</link>
+      <pubDate>Sun, 27 Sep 2020 05:49:36 +0000</pubDate>
+      
+      <guid>https://recette-de-la-jeune-maman.netlify.app/categories/recettes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Délicieuse Recette</title>
+      <link>https://recette-de-la-jeune-maman.netlify.app/categories/d%C3%A9licieuse-recette/</link>
+      <pubDate>Sun, 27 Sep 2020 05:28:56 +0000</pubDate>
+      
+      <guid>https://recette-de-la-jeune-maman.netlify.app/categories/d%C3%A9licieuse-recette/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recettes Indiennes</title>
+      <link>https://recette-de-la-jeune-maman.netlify.app/categories/recettes-indiennes/</link>
+      <pubDate>Sun, 27 Sep 2020 05:15:40 +0000</pubDate>
+      
+      <guid>https://recette-de-la-jeune-maman.netlify.app/categories/recettes-indiennes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recette de Recettes</title>
+      <link>https://recette-de-la-jeune-maman.netlify.app/categories/recette-de-recettes/</link>
+      <pubDate>Sun, 27 Sep 2020 04:48:43 +0000</pubDate>
+      
+      <guid>https://recette-de-la-jeune-maman.netlify.app/categories/recette-de-recettes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
